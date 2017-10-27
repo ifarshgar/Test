@@ -20,5 +20,5 @@ print(mylist[2])
 for x in mylist:
     print(x)
 
+print("length of hello is: %d" % len(hello))
 
-#some minor changes
