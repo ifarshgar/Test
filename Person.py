@@ -2,7 +2,7 @@
 firstName = "Abdolrahman"
 lastName = "Farshgar"
 age = 23
-major = "Software Engineer"
+major = "Software Engineering"
 
 
 dataArray = (firstName, lastName, age, major)
